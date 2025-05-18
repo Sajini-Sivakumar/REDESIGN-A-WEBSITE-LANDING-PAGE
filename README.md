@@ -22,5 +22,8 @@ I added the search bar in the center of the page. This helps users to input thei
 
 Additionally, I included a “Features” section with representative images and concise descriptions to help users immediately understand the core purposes of the website. Since images are often more effective than text alone at communicating ideas quickly, this section serves as a visual summary of what Craigslist offers.For the color, I chose a purple-based gradient background. Purple is associated with loyalty and creativity. So it provides a visually attractive web pages. Finally my design provides user friends and GUI based interface.
 
+**ORIGINAL DESIGN**
+
+
 **OUTPUT**
 ![Image](https://github.com/user-attachments/assets/05bd2260-875c-4fd1-bba2-bf29b1f7d849)
