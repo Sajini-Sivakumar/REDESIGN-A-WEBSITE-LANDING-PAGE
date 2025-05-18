@@ -20,7 +20,7 @@ In my redesign, I started by adding a prominent header section that clearly disp
 
 I added the search bar in the center of the page. This helps users to input their requirements and find the listings or services they need quickly.To enhance usability further, I incorporated colorful icons, buttons, and images throughout the page. For example, there are clearly labeled buttons for specific tasks like “Post an Ad” and “Event Calendar,” which visually guide users toward important actions.This makes the webpage more  userfriendly.
 
-Additionally, I included a “Features” section with representative images and concise descriptions to help users immediately understand the core purposes of the website. Since images are often more effective than text alone at communicating ideas quickly, this section serves as a visual summary of what Craigslist offers.For the color, I chose a purple-based gradient background. Purple is associated with loyalty and creativity. So it provides a visually attractive web pages. Finally my design provides user friends and gui based interface.
+Additionally, I included a “Features” section with representative images and concise descriptions to help users immediately understand the core purposes of the website. Since images are often more effective than text alone at communicating ideas quickly, this section serves as a visual summary of what Craigslist offers.For the color, I chose a purple-based gradient background. Purple is associated with loyalty and creativity. So it provides a visually attractive web pages. Finally my design provides user friends and GUI based interface.
 
 **OUTPUT**
 ![Image](https://github.com/user-attachments/assets/05bd2260-875c-4fd1-bba2-bf29b1f7d849)
