@@ -25,5 +25,5 @@ Additionally, I included a “Features” section with representative images and
 **ORIGINAL DESIGN**
 ![Image](https://github.com/user-attachments/assets/72833dc3-701f-4276-83ed-0e401206ec28)
 
-**OUTPUT**
+**REDESIGNED VERSION(OUTPUT)**
 ![Image](https://github.com/user-attachments/assets/05bd2260-875c-4fd1-bba2-bf29b1f7d849)
