@@ -12,6 +12,8 @@
 
 **MENTOR** : NEELA SANTHOSH
 
+**SOFTWARE USED:** FIGMA
+
 For my first week intern task, I have selected the craigslist web page. Its a simple, text-focused layout provides quick access to a wide range of categories and listings without unnecessary distractions..But Craigslist homepage does not clearly communicate the overall objective of the website to new users. It can take some time for first-time visitors to fully understand the site’s purpose and how to navigate its offerings.
 
 Although Craigslist features many categories such as housing, jobs, services, and community activities,it cant convey the categories in such a simple way.The site primarily relies on text links without any supporting icons or images that makes users difficult to recognize and differentiate the categories. In this modern era ,users are more convenient with icons,images and GUI based interfaces which is user friendly to understand the functionality of the website and how to work on it.This observation motivated me to redesign the Craigslist landing page with a focus on improving user experience and visual clarity.
